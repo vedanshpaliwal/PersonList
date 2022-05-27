@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PersonList/static/css/main.7c2ef831.css",
+    "main.js": "/PersonList/static/js/main.aa6b99b9.js",
+    "static/js/787.fa23537a.chunk.js": "/PersonList/static/js/787.fa23537a.chunk.js",
+    "static/media/logo.svg": "/PersonList/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PersonList/index.html",
+    "main.7c2ef831.css.map": "/PersonList/static/css/main.7c2ef831.css.map",
+    "main.aa6b99b9.js.map": "/PersonList/static/js/main.aa6b99b9.js.map",
+    "787.fa23537a.chunk.js.map": "/PersonList/static/js/787.fa23537a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2ef831.css",
+    "static/js/main.aa6b99b9.js"
+  ]
+}
