@@ -1,0 +1,39 @@
+.header-main{
+    display: flex;
+    align-items: center;
+    max-width: 1519.92px;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+
+}
+
+
+
+.header-title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 145%;
+/* identical to box height, or 35px */
+color: #000000;
+
+}
+.header-items{
+    display: flex;
+    margin-left: auto;
+}
+.header-item{
+    
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 150%;
+/* identical to box height, or 26px */
+margin-left: 24px;
+margin-right: 24px;
+
+color: #000000;
+}

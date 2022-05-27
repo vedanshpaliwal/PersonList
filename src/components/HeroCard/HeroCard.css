@@ -1,0 +1,73 @@
+.hero-main{
+    width: 996px;
+height: 291px;
+left: 222px;
+top: 147px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+margin-top: 72px;
+margin-left: 222px;
+margin-right: 222px;
+display: flex;
+}
+.hero-left{
+  margin: auto 64px;
+}
+.hero-left-content{
+    width: 128px;
+height: 128px;
+left: 286px;
+top: 228px;
+border-radius: 120px;
+}
+
+.hero-right-name{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 64px;
+text-align: left;
+line-height: 100%;
+/* identical to box height, or 64px */
+margin-top: 64px;
+letter-spacing: -1.85px;
+text-decoration-line: underline;
+
+color: #E16259;
+}
+.address-top{
+    margin-top: 12px;
+    text-align: left;
+}
+.hero-right-address{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+/* font-weight: 700; */
+font-size: 20px;
+line-height: 145%;
+letter-spacing: 0.5px;
+/* or 29px */
+
+
+}
+.address-bottom{
+    text-align: left;
+}
+.street-no
+{
+    color: #A259FF;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+
+}
+.country{
+    font-weight: 800;
+    letter-spacing: 0.5px;
+
+}
+.gender{
+    color: #7d868e;
+    text-align: left;
+}
